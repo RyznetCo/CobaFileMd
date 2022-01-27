@@ -5,4 +5,4 @@
 ### 2. Nauvan
 
 ## Website Berita
-![ss Web](SSweb/Page.jpg)
+![ss Web](SSweb/Page.JPG)
