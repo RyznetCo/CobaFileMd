@@ -3,7 +3,8 @@
 ## Anggota Kelompok
 ### 1. Ahmad Rafif
 ### 2. Nauvan
-### 2. Fiskiya
+### 3. Fiskiya
+### 4. Mantappu
 
 ## Website Berita
 ![ss Web](SSweb/Page.JPG)
